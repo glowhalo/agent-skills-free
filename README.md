@@ -20,7 +20,7 @@ For Codex CLI or OpenClaw, put the folder wherever that agent loads skills from.
 
 ## More skills
 
-About 50 more skills (review boards, QA checklists, planners) with real example outputs are listed at **https://skills.glowhalo.org**. They are paid; these two are free.
+More skills (review boards, QA checklists, planners) are listed on our Capafy publisher page: **https://capafy.ai/publisher/tossneon0**. Some are paid; these two are free.
 
 ## License
 
